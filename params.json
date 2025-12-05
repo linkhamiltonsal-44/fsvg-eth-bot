@@ -1,0 +1,13 @@
+{
+  "symbol": "ETHUSDT",
+  "lev": 3,
+  "base_equity": 1000,
+  "max_notional": 3000,
+  "gamma": 0.35,
+  "n_orders": 20,
+  "inv_trigger": 0.05,
+  "grid_refresh_sec": 300,
+  "hedge_sec": 30,
+  "kill_dd": 0.15,
+  "min_lot": 0.001
+}
